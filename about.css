@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.hero{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: #eff4fd;
+}
+
+.hero img{
+    width: 350px;
+    padding: 8%;
+}
+
+.hero span{
+    color: orangered;
+}
+
+.hero p{
+    padding: 2%;
+    font-size: 18px;
+}
+
+.hero li{
+    list-style: none;
+}
+
+.hero li a{
+    color: black;
+    list-style: none;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
